@@ -88,7 +88,7 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 20,
             font: "bold 20px Calibri,sans serif",
-        },
+        }
 
 
 
